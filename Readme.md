@@ -1,1 +1,1 @@
-This project involves the study project in data analysis
+This project involves the school project in data analysis
