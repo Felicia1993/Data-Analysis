@@ -1,8 +1,5 @@
 This project involves the school project in data analysis
 # Fraud detection
-Certainly! Here's a concise project description for your CV:
-
----
 
 **Fraud Detection Project using XGBoost**
 
